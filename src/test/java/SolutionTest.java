@@ -2,7 +2,7 @@ import org.junit.Before;
 import org.junit.Test;
 import static org.junit.Assert.assertArrayEquals;
 
-public class test1 {
+public class SolutionTest {
 
     private Solution solution;
     private int[][] board;
